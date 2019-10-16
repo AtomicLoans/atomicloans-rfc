@@ -1,2 +1,2 @@
 # atomicloans-rfc
-Atomic Loans Specifications
+https://github.com/AtomicLoans/atomicloans-rfc/wiki/System-Overview
